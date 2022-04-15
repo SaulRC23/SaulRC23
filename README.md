@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saúl Romero Cruz</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">I am full stack developer</h3>
 
 - 🌱 I’m currently learning **Php, JavaScript, Java.**
 
